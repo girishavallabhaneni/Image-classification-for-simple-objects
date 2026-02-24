@@ -60,7 +60,7 @@ The model learns hierarchical image features such as edges, shapes, and textures
 
 ⚙️ Project Workflow
 
-Data Loading & Preprocessing
+1.Data Loading & Preprocessing:
 
 Normalize pixel values
 
@@ -68,24 +68,27 @@ Train-test split
 
 Data visualization
 
-Model Building
+2.Model Building:
 
 Sequential CNN architecture
 
 Activation functions: ReLU, Softmax
-Model Training
+
+3.Model Training:
 
 Loss Function: Categorical Crossentropy
 
 Optimizer: Adam
 
 Performance tracking using accuracy
-Evaluation
+
+4.Evaluation:
 
 Accuracy measurement
 
 Validation performance analysis
-Prediction
+
+5.Prediction
 
 Model used to classify new/unseen images
 
@@ -104,8 +107,4 @@ Computer Vision fundamentals
 Neural Network architecture
 Model training and evaluation
 Real-world AI application development
-This project showcases strong foundational skills in Machine Learning and Deep Learning, making it relevant for roles such as:
-Data Analyst
-Machine Learning Engineer
-AI Engineer
-Computer Vision Intern
+This project showcases strong foundational skills in Machine Learning and Deep Learning.
